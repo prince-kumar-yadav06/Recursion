@@ -3,7 +3,7 @@ public class PairFriends {
     public static int FindPair(int n){
 
         if( n == 1 || n==2){
-            return 1;
+            return n;
         }
 
         //  for single 
